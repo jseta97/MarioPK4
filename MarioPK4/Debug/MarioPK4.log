@@ -1,0 +1,9 @@
+﻿  Game.cpp
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(141): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(150): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(159): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(166): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(288): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(296): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\jseta\source\repos\mariopk4\mariopk4\game.cpp(303): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  MarioPK4.vcxproj -> C:\Users\jseta\source\repos\MarioPK4\Debug\MarioPK4.exe
